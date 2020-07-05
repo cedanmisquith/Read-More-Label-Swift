@@ -1,0 +1,6 @@
+framework module Pods_ReadMoreLabel_ReadMoreLabelUITests {
+  umbrella header "Pods-ReadMoreLabel-ReadMoreLabelUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
